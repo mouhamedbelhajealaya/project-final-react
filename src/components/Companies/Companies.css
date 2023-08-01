@@ -1,0 +1,22 @@
+ /* style is min img */
+
+/* .c-wrapper>testt{
+  width: 110px;
+  height: 110px;
+  border-radius: 5
+} */
+.c-container{
+  justify-content: space-around;
+  gap: 1rem;
+}
+.c-container>Col{
+  width: 9rem;
+}
+.Icons{
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  padding: 20px;
+  border: 5px solid rgb(237, 129, 12);
+
+}
